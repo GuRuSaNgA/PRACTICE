@@ -1,7 +1,11 @@
-<head>
-hahaha
+<head> GURU </head>
+<title>life of GURU</title>
+<body>
+<p>hahaha
 guru the basketball player
 the moon rises in the south
 does snake get cold????
 goodafternoon dude
-ok i will give commit changes
+ok i will give commit changes</p>
+</body>
+</head>
